@@ -4,4 +4,4 @@ matplotlib
 pandas
 requests
 plotly
-nunmpy
+numpy
